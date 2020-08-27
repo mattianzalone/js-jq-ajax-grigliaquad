@@ -1,0 +1,31 @@
+.quadratoGrande{
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    margin: 0 auto;
+    
+}
+
+.quadrato{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+}
+
+.yellow{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    float: left;
+    background-color: yellow;
+}
+
+.green{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    float: left;
+    background-color: green;
+}
